@@ -1,4 +1,4 @@
-package org.ikinsure.medium.readability;
+package org.ikinsure.readability;
 
 import java.io.IOException;
 import java.nio.file.Files;
